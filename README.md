@@ -1,2 +1,2 @@
 # djFountain
-Tumo Fountain simulator extension for control fountain as Dijey :)
+Tumo Fountain simulator component for control fountain as Dijey :)
